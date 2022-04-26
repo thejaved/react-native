@@ -20,4 +20,3 @@ So, for example:
 
 ```
 GITHUB_TOKEN=[ENV_ABOVE] GITHUB_PR_NUMBER=1234 yarn lint-ci
-```
